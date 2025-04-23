@@ -1,6 +1,6 @@
 # 🌟 Bem-vindo ao Meu Perfil no GitHub! Sou monokatarina 🎉
 
-[![English](https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg)](README_EN.md)
+[<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English" height="20">](README_EN.md) 
 
 ---
 

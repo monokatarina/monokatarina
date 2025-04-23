@@ -1,7 +1,6 @@
 # 🌟 Welcome to My GitHub Profile! I'm monokatarina 🎉
 
-[![Português](https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg)](README_PT.md)
-
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Português" height="20">](README_PT.md)
 ---
 
 ## 📜 English Version
