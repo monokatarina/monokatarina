@@ -47,6 +47,20 @@ Olá! 👋 Sou uma desenvolvedora apaixonada por **Python**, com talento para cr
 
 ---
 
+## 📂 Projeto em Destaque: [🧠 SNN Evolutionary AI Testbed](https://github.com/monokatarina/IA_in_complex_game_snn.git)
+
+🧠⚡ **Plataforma Experimental de IA Evolutiva com SNN**  
+Um projeto experimental de IA que testa Redes Neurais Pulsadas (SNN) em ambientes complexos com múltiplos agentes, utilizando algoritmos evolutivos.
+
+📌 **Visão Geral**  
+Este projeto simula agentes autônomos com arquiteturas neurais híbridas (MLP + SNN) que aprendem a coletar lixo eficientemente enquanto gerenciam recursos limitados de bateria. Serve como plataforma para:
+- Métodos de treinamento evolutivo
+- Redes Neurais Pulsadas em ambientes complexos
+- Dinâmicas de aprendizagem por reforço multiagente
+- Estratégias de navegação com memória aumentada
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=monokatarina&repo=IA_in_complex_game_snn&theme=radical)](https://github.com/monokatarina/IA_in_complex_game_snn.git)
+
 ## 📂 Projeto em Destaque: [📈 Calculadora de Juros Compostos](https://github.com/monokatarina/juros-compostos.git)
 
 Uma poderosa **Calculadora de Juros Compostos** construída em Python, projetada para casos de uso educacionais e práticos.  
