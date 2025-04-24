@@ -45,6 +45,22 @@ Hi there! 👋 I'm a passionate **Python Developer** with a knack for creating m
   - Clear and maintainable codebases with type annotations and docstrings
 
 ---
+## 📂 Highlighted Project: [🧠 I.A]
+(https://github.com/monokatarina/IA_in_complex_game_snn.git)
+
+🧠⚡ Autonomous Trash Collector - SNN Evolutionary AI Testbed
+An experimental AI project testing Spiking Neural Networks (SNN) in complex multi-agent environments using evolutionary algorithms.
+
+📌 Overview
+This project simulates autonomous agents with hybrid neural architectures (MLP + SNN) that learn to collect trash efficiently while managing limited battery resources. It serves as a testbed for:
+
+Evolutionary training methods
+Spiking Neural Networks in complex environments
+Multi-agent reinforcement learning dynamics
+Memory-augmented navigation strategies
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=monokatarina&repo=IA_in_complex_game_snn&theme=radical)](https://github.com/monokatarina/IA_in_complex_game_snn.git)
+
 
 ## 📂 Highlighted Project: [📈 Compound Interest Calculator](https://github.com/monokatarina/juros-compostos.git)
 
