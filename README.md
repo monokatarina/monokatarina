@@ -1,7 +1,13 @@
 # 🌟 Welcome to My GitHub Profile! I'm monokatarina 🎉
 
-[<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English" height="20">](README_EN.md)  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Português" height="20">](README_PT.md)
+<div align="center">
+  <a href="README_EN.md">
+    <img src="https://img.shields.io/badge/ENGLISH-0057B7?style=for-the-badge&color=0057B7&labelColor=white" height="28">
+  </a>
+  <a href="README_PT.md">
+    <img src="https://img.shields.io/badge/PORTUGUÊS-009C3B?style=for-the-badge&color=009C3B&labelColor=white" height="28">
+  </a>
+</div>
 
 ---
 
