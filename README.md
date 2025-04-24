@@ -13,6 +13,54 @@ Hi there! 👋 I'm a passionate **Python Developer** with a knack for creating m
 
 ### 🐍 My Python Expertise
 
+#### 🧠 **Artificial Intelligence & Machine Learning:**
+- **Spiking Neural Networks (SNN):**
+  - Implementation with SNNTorch
+  - Hybrid MLP-SNN architectures
+  - Leaky Integrate-and-Fire neurons
+- **Evolutionary Algorithms:**
+  - Performance-based selection
+  - Adaptive mutation
+  - Population-based training
+- **Reinforcement Learning:**
+  - Multi-agent environments
+  - Hierarchical reward systems
+  - Intrinsic curiosity mechanisms
+
+#### ⚙️ **Advanced Software Engineering:**
+- **Hybrid Architecture:**
+  - PyTorch + SNNTorch integration
+  - MVC pattern for complex systems
+  - Residual blocks & multi-head attention
+- **Optimization:**
+  - NumPy vectorization
+  - PyTorch parallelism
+  - RL resource management
+- **Testing & Validation:**
+  - Unit tests for NN components
+  - Evolutionary policy validation
+  - Training metrics monitoring
+
+#### 📈 **Mastered Libraries:**
+| Domain          | Key Libraries                          |
+|-----------------|----------------------------------------|
+| Deep Learning   | PyTorch, SNNTorch, TorchVision         |
+| Neuroscience    | BindsNET, Nengo                        |
+| Simulation      | PyGame, Matplotlib                     |
+| CI/CD           | GitHub Actions, pytest                 |
+| Analysis        | Pandas, Seaborn, Plotly                |
+
+#### 🚀 **Complex Projects:**
+- **Autonomous Systems:**
+  - Spatial memory navigation
+  - Hierarchical decision-making
+  - Limited resource management
+- **Experimental Research:**
+  - Transfer learning between agents
+  - Predator-prey dynamics
+  - Scalable dynamic environments
+
+
 #### 🌱 **Foundations I've Mastered:**
 - **Core Concepts:** Variables, operators, conditional structures, loops
 - **Data Structures:** Lists, dictionaries, tuples for versatile data storage

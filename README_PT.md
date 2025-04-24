@@ -12,12 +12,60 @@ Olá! 👋 Sou uma desenvolvedora apaixonada por **Python**, com talento para cr
 
 ### 🐍 Minhas Competências em Python
 
+#### 🧠 **Inteligência Artificial & Aprendizado de Máquina:**
+- **Redes Neurais Pulsadas (SNN):**
+  - Implementação com SNNTorch
+  - Arquiteturas híbridas MLP-SNN
+  - Neurônios Leaky Integrate-and-Fire
+- **Algoritmos Evolutivos:**
+  - Seleção baseada em desempenho
+  - Mutação adaptativa
+  - Treinamento populacional
+- **Aprendizado por Reforço:**
+  - Ambientes multiagente
+  - Sistemas hierárquicos de recompensa
+  - Mecanismos de curiosidade intrínseca
+
+#### ⚙️ **Engenharia de Software Avançada:**
+- **Arquitetura Híbrida:**
+  - Combinação PyTorch + SNNTorch
+  - Padrão MVC para sistemas complexos
+  - Blocos residuais e atenção multi-head
+- **Otimização:**
+  - Vectorização com NumPy
+  - Paralelismo com PyTorch
+  - Gerenciamento de recursos em RL
+- **Testes & Validação:**
+  - Testes de unidade para componentes NN
+  - Validação de políticas evolutivas
+  - Monitoramento de métricas de treino
+
+#### 📈 **Bibliotecas Dominadas:**
+| Área          | Principais Bibliotecas                     |
+|---------------|--------------------------------------------|
+| Deep Learning | PyTorch, SNNTorch, TorchVision             |
+| Neurociência  | BindsNET, Nengo                            |
+| Simulação     | PyGame, Matplotlib                         |
+| CI/CD         | GitHub Actions, pytest                     |
+| Análise       | Pandas, Seaborn, Plotly                    |
+
+#### 🚀 **Projetos Complexos:**
+- **Sistemas Autônomos:**
+  - Navegação com memória espacial
+  - Tomada de decisão hierárquica
+  - Gerenciamento de recursos limitados
+- **Pesquisa Experimental:**
+  - Transfer learning entre agentes
+  - Dinâmicas predador-presa
+  - Ambientes escaláveis dinâmicos
+
 #### 🌱 **Fundamentos que Dominei:**
 - **Conceitos Básicos:** Variáveis, operadores, estruturas condicionais, loops
 - **Estruturas de Dados:** Listas, dicionários, tuplas para armazenamento versátil de dados
 - **Funções:** Construção de ferramentas reutilizáveis com parâmetros e valores de retorno
 - **Tratamento de Erros:** Validações robustas usando `try/except`
 - **Manipulação de Strings:** Formatação de dados para saídas amigáveis ao usuário
+
 
 #### 📊 **Progresso Intermediário:**
 - **Programação Orientada a Objetos (OOP):**
